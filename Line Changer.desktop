@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Terminal=true
+Name=Line Changer
+Icon=/usr/share/icons/Humanity/apps/48/browser.svg
+InitialPreference=3
+Exec=gnome-terminal -e "/bin/line_changer_start.sh"
+Name[en_IN]=Line Changer
